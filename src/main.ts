@@ -1,10 +1,9 @@
-import dayjs from 'dayjs';
+let a = 10;
 
+const b = 30;
 
-console.log(123)
-console.log(123)
-console.log(123)
-console.log(123)
-console.log(123)
-console.log(123)
-console.log(dayjs().format('YYYY-MM-DD HH:mm:ss'));
+if (a === b) {
+  console.log(1);
+}
+
+a = 123123;
